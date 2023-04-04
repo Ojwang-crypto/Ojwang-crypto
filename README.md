@@ -7,6 +7,7 @@ Software Developer
 I am an experienced software engineer with a passion for creating innovative systems that improve a company efficiency and effectiveness, ability to understand and test software, working knowledge of software development and a strong understanding of core internet technologies. Well-versed in technology and coding to design dependable and user friendly systems.
 
 * 🌍  I'm based in Nairobi, Kenya
+* 🌍  See my portfolio at https://codes-collins.vercel.app
 * ✉️  You can contact me at [omondicollins163@gmail.com](mailto:omondicollins163@gmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
