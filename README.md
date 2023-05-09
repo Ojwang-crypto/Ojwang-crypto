@@ -62,6 +62,6 @@ I am an experienced software engineer with a passion for creating innovative sys
 
 <a href="http://www.github.com/Ojwang-crypto"><img src="https://github-readme-stats.vercel.app/api?username=Ojwang-crypto&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ojwang-crypto's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ojwang-crypto"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ojwang-crypto&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
